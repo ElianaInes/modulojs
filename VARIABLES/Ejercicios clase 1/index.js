@@ -49,7 +49,7 @@
 // let age = 25
 // let email = "nicolesuarez@gmail.com"
 
-// console.log("Mi nombre es", `${firstname} ${lastname}`,"tengo", `${age}`,"años y mi mail de contacto es", `${email}`)
+// console.log(`Mi nombre es, ${firstname} ${lastname}, tengo, ${age},años y mi mail de contacto es, ${email}`)
 // document.write("Hola mi nombre es Nicole Surez, tengo 25 años y mi maol de contacto es nicolesuarez@gmail.com ")
 // alert("Hola mi nombre es Nicole Surez, tengo 25 años y mi maol de contacto es nicolesuarez@gmail.com ")
 // console.log("Bienvenida ejecutada")
